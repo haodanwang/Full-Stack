@@ -8,7 +8,7 @@ def 函数名():
 
 
 def print_pokes():
-    poke_type = ["♥️", "♦️", "♠️", "♣️"]
+    poke_type = ["??", "??", "??", "??"]
     poke_num = ["A", "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K"]
     poke_list = []
     for type in poke_type:
